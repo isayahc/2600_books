@@ -1,7 +1,7 @@
 # Project Name
 
-[![Build Status](https://img.shields.io/travis/username/reponame.svg?style=flat-square)](https://travis-ci.org/username/reponame)
-[![Coverage Status](https://img.shields.io/coveralls/username/reponame.svg?style=flat-square)](https://coveralls.io/github/username/reponame)
+[![Build Status](https://img.shields.io/travis/isayahc/2600_books.svg?style=flat-square)](https://travis-ci.org/isayahc/2600_books)
+[![Coverage Status](https://img.shields.io/coveralls/isayahc/2600_books.svg?style=flat-square)](https://coveralls.io/github/isayahc/2600_books)
 [![License](https://img.shields.io/github/license/isayahc/python-sample-template.svg?style=flat-square)](LICENSE)
 
 ## Description
