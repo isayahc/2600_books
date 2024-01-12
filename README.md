@@ -17,8 +17,15 @@ Brief description of your project.
 ## Installation
 
 \```bash
-# commands to install the project
+export HUGGINGFACE_API_KEY=hf_
+export OPENAI_API_KEY=sk..
 \```
+
+## Starting Interpreter
+
+```
+interpreter --model huggingface/mistralai/Mistral-7B-Instruct-v0.2 --config_file "config.yaml"
+```
 
 ## Usage
 
