@@ -18,6 +18,7 @@ def query_data(query: str):
     query_engine = index.as_query_engine()
     user_query = query_engine.query(query)
     user_query = user_query.response
+    print(user_query)
     return user_query
     # x = 0
 
