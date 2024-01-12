@@ -6,13 +6,7 @@
 
 ## Description
 
-Brief description of your project.
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
+You can now use use Retrival Augmented Generation on your data while working with your agent
 
 ## Installation
 
@@ -21,6 +15,11 @@ export HUGGINGFACE_API_KEY=hf_
 export OPENAI_API_KEY=sk..
 ```
 
+## Configurations
+
+1. In your `.env` file, please add the desired directory to be ingested. Then run `python ingestion.py`
+2. Now start the Interpreter with the command provided in the next section.
+
 ## Starting Interpreter
 
 ```
@@ -28,10 +27,6 @@ interpreter --model huggingface/mistralai/Mistral-7B-Instruct-v0.2 --config_file
 ```
 
 ## Usage
-
-\```bash
-# commands or instructions for using your project
-\```
 
 ## Contributing
 
