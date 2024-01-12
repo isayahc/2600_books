@@ -16,10 +16,10 @@ Brief description of your project.
 
 ## Installation
 
-\```bash
+```bash
 export HUGGINGFACE_API_KEY=hf_
 export OPENAI_API_KEY=sk..
-\```
+```
 
 ## Starting Interpreter
 
