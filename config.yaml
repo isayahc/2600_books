@@ -13,10 +13,10 @@ interpreter.system_message: you may be asked to "query the library" or "query th
   example  `python query_documents.py 'what is this document about'`
 
   when asked to "query the library" or "query the vector store" run `python query_documents {query}` 
-  into the terminal
+  into the terminal. query_documents.py is a python  file, if you do not prepend `python` to it then you will get a SyntaxError
 
 
-interpreter.llm.max_tokens : 1000
+interpreter.llm.max_tokens : 1024
 
 # Be sure to remove the "#" before the following settings to use them.
 
