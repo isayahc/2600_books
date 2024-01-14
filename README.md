@@ -25,7 +25,7 @@ export OPENAI_API_KEY=sk..
 ```
 interpreter --model huggingface/mistralai/Mixtral-8x7B-Instruct-v0.1 -x 1024 --config_file "config.yaml"
 ```
-Note: the x flag is for max token. I have it to max to prevent incomplete text 
+Note: the x flag is for max token. I have it to max to prevent incomplete text. Also the config must be added for the desired agent behavior
 ## Usage
 
 ## Contributing
