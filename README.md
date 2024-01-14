@@ -23,7 +23,7 @@ export OPENAI_API_KEY=sk..
 ## Starting Interpreter
 
 ```
-interpreter --model huggingface/mistralai/Mixtral-8x7B-Instruct-v0.1 -x 1024
+interpreter --model huggingface/mistralai/Mixtral-8x7B-Instruct-v0.1 -x 1024 --config_file "config.yaml"
 ```
 Note: the x flag is for max token. I have it to max to prevent incomplete text 
 ## Usage
