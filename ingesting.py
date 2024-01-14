@@ -7,7 +7,7 @@ load_dotenv()
 
 
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
-LIBRARY_DIRECTORY = os.geteLIBRARY_DIRECTORY
+LIBRARY_DIRECTORY = os.getenv('LIBRARY_DIRECTORY')
 
 
 documents = SimpleDirectoryReader(LIBRARY_DIRECTORY).load_data()
