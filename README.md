@@ -1,4 +1,4 @@
-# Project Name
+# 2600 books
 
 [![Build Status](https://img.shields.io/travis/isayahc/2600_books.svg?style=flat-square)](https://travis-ci.org/isayahc/2600_books)
 [![Coverage Status](https://img.shields.io/coveralls/isayahc/2600_books.svg?style=flat-square)](https://coveralls.io/github/isayahc/2600_books)
@@ -6,7 +6,7 @@
 
 ## Description
 
-You can now use use Retrival Augmented Generation on your data while working with your agent
+You can now use use Retrival Augmented Generation on your data while working with your agent. Collab with @evolved-civilian
 
 ## Installation
 
